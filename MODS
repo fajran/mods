@@ -1,0 +1,15 @@
+module(
+    name = "mods",
+    srcs = [
+        "Makefile",
+        "README.md",
+    ],
+)
+
+module(
+    name = "go",
+    srcs = [
+        "go.mod",
+        "go.sum",
+    ],
+)

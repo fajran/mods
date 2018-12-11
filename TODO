@@ -1,0 +1,11 @@
+TODO
+====
+
+- [ ] Command line interface
+- [ ] Mods file parser (use Starlark)
+- [ ] Native function: glob()
+- [ ] Native function: module(name, srcs, deps)
+- [ ] Config file: .mods.cfg -> custom WORKSPACE and MODS file
+- [ ] File resolver: Bazel style
+- [ ] Module type and provider
+
